@@ -284,14 +284,14 @@
       "ext": "https://kvymin.github.io/CatVod/sub/Bili.json"
     },
     {
-      "key": "csp_Xpath_lezhu",
-      "name": "乐猪影视〔XPM〕",
+      "key": "剧白白",
+      "name": "剧白白〔XPF〕",
       "type": 3,
-      "api": "csp_XPathMac",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/XPathMac/lezhutv.json"
+      "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/jubaibai.json"
     },
     {
       "key": "csp_biubiu_宝仙HD",
