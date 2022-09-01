@@ -48,7 +48,7 @@
     },
     {
       "key": "csp_Jianying",
-      "name": "简影",
+      "name": "✨简影",
       "type": 3,
       "api": "csp_JianYing",
       "searchable": 1,
@@ -67,7 +67,7 @@
     },
     {
       "key": "小苹果",
-      "name": "小苹果",
+      "name": "🍎小苹果",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -94,7 +94,7 @@
     },
     {
       "key": "神马影院",
-      "name": "神马影院",
+      "name": "🐎神马影院",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
@@ -175,7 +175,7 @@
     },
     {
       "key": "小熊",
-      "name": "小熊TV",
+      "name": "🐨小熊TV",
       "type": 3,
       "api": "csp_Xxys",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "日本动漫",
+      "name": "🐠樱花动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -311,7 +311,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "️小纸条（云盘）",
+      "name": "️📜小纸条（云盘）",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
