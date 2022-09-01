@@ -1,6 +1,6 @@
 {
-   //"spider": "https://Kvymin.github.io/CatVod/jar/Hsck.jar;md5;95f1754708eeaf127d93fea25dcd120a",
-  "spider": "https://kvymin.github.io/CatVod/jar/custom_spider.jar;md5;d63fe3db21b48e04884c2d5303907bd1",
+
+  "spider": "https://kvymin.github.io/CatVod/jar/custom_spider.jar;md5;4df8a8eafa60db019d44d86b22f55edc",
   "sites": [
     {
       "key": "csp_Xpath_lezhu",
