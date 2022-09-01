@@ -11,6 +11,24 @@
      "filterable": 0
     },
     {
+      "key": "csp_QQ",
+      "name": "腾（SP官解）",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_MGTV",
+      "name": "芒（SP官解）",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "极速",
       "name": "极速〔聚〕",
       "type": 1,
