@@ -263,14 +263,14 @@
       "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/naifeiorg.json"
     },
     {
-      "key": "csp_桔子TV",
-      "name": "桔子TV〔XPF〕",
+      "key": "csp_电影牛",
+      "name": "电影牛〔XPF〕",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/桔子TV.json"
+      "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/dyn.json"
     },
     {
       "key": "csp_appys_美剧虫",
