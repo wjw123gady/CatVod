@@ -93,24 +93,24 @@
       "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/cokemv.json"
     }, 
     {
-          "key": "csp_xpath_348电影",
-          "name": "348电影(XPF)",
-          "type": 3,
-          "api": "csp_XPathFilter",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "https://kvymin.github.io/CatVod/XPathFilter/348z.json"
+      "key": "csp_xpath_348电影",
+      "name": "348电影(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVod/XPathFilter/348z.json"
      }, 
      {
-          "key": "csp_xpath_lranc",
-          "name": "天天影视(XPF)",
-          "type": 3,
-          "api": "csp_XPathMacFilter",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/lranc.json"
+       "key": "csp_xpath_lranc",
+       "name": "天天影视(XPF)",
+       "type": 3,
+       "api": "csp_XPathMacFilter",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/lranc.json"
      },
     {
       "key": "剧白白",
