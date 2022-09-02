@@ -33,15 +33,25 @@
       "ext": "https://kvymin.github.io/CatVod/XPbd/Bdys.json"
     },
     {
-          "key": "csp_xpath_czspp",
-          "name": "厂长资源(XP)",
-          "type": 3,
-          "api": "csp_XPath",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 0,
-          "ext": "https://kvymin.github.io/CatVod/Xpath/czspp.json"
-     },
+      "key":"csp_xpath_UM",
+      "name":"UM影院(XPMF)",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://kvymin.github.io/CatVod/XPathMacFilter/UM.json"
+    },
+    {
+      "key": "csp_xpath_czspp",
+      "name": "厂长资源(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://kvymin.github.io/CatVod/Xpath/czspp.json"
+    },
     {
       "key": "csp_xpath_saohuotv",
       "name": "骚火影视〔XPF〕",
