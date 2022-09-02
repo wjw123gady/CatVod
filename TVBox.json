@@ -133,18 +133,18 @@
       "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/dadagui.json"
     },
     {
-          "key": "csp_xpath_xxys520",
-          "name": "小熊影视(XPF)",
-          "type": 3,
-          "api": "csp_XPathFilter",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/xxys520.json"
+       "key": "csp_xpath_789kp",
+       "name": "789看片(XPMF)",
+       "type": 3,
+       "api": "csp_XPathMacFilter",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": ""https://kvymin.github.io/CatVod/XPathMacFilter/789kp.json
      },
     {
        "key":"csp_xpath_007",
-       "name":"玲玲七(XPF)",
+       "name":"玲玲七(XPMF)",
        "type":3,
        "api":"csp_XPathMacFilter",
        "searchable":1,
