@@ -140,8 +140,8 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "ext": ""https://kvymin.github.io/CatVod/XPathMacFilter/789kp.json"
-     },
+       "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/789kp.json"
+    },
     {
        "key":"csp_xpath_007",
        "name":"玲玲七(XPMF)",
