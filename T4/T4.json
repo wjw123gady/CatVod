@@ -29,6 +29,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "T4备用",
+      "name": "备用",
+      "type": 4,
+      "api": "https://t-secan-jcesy.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
