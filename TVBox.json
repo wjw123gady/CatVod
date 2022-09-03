@@ -351,6 +351,16 @@
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/voflix.json"
     },
     {
+      "key": "蓝光影院",
+      "name": "蓝光(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://kvymin.github.io/CatVod/XBiubiu/lgyy.json"
+    },
+    {
       "key": "AB影院",
       "name": "AB影院〔XB〕",
       "type": 3,
