@@ -11,6 +11,16 @@
       "ext": "https://kvymin.github.io/CatVod/XPathMac/lezhutv.json"
     },
     {
+      "key":"csp_xpath_hyingku",
+      "name":"🤗嗨影库(XP)",
+      "type":3,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext": "https://kvymin.github.io/CatVod/Xpath/hyingku.json"
+    }, 
+    {
       "key": "csp_Xpath_bttwoo",
       "name": "2BT〔XPM〕",
       "type": 3,
