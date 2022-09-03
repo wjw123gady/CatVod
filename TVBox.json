@@ -91,6 +91,16 @@
       "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/cokemv.json"
     },
     {
+      "key":"csp_xpath_蚂蚁影视",
+      "name":"🐜蚂蚁影视",
+      "type":3,
+      "api":"csp_XPathFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://kvymin.github.io/CatVod/XPathFilter/mayi.json"
+    },
+    {
       "key": "csp_xpath_348电影",
       "name": "348电影(XPF)",
       "type": 3,
