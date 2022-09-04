@@ -31,10 +31,10 @@
       "filterable": 1
     },
    {
-      "key": "注视",
-      "name": "注视",
+      "key": "libvio",
+      "name": "libvio",
       "type": 4,
-      "api": "https://t4.catvod.eu.org/catvod/gaze",
+      "api": "https://vod.kooo.eu.org/t4/libvio",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
