@@ -75,8 +75,8 @@
        "filterable": 0
     },
     { 
-       "key": "mk",
-       "name":"mk",
+       "key": "秒开",
+       "name":"秒开",
        "type": 4,
        "api":"https://vod.kooo.eu.org/t4/mk", 
        "searchable": 1,
@@ -84,8 +84,8 @@
        "filterable": 0
     },
     { 
-       "key": "hx",
-       "name":"kx",
+       "key": "海滢",
+       "name":"海滢",
        "type": 4,
        "api":"https://vod.kooo.eu.org/t4/hx", 
        "searchable": 1,
@@ -93,8 +93,8 @@
        "filterable": 0
     },
     { 
-       "key": "nmys",
-       "name":"nmys",
+       "key": "柠檬影视",
+       "name":"柠檬影视",
        "type": 4,
        "api":"https://vod.kooo.eu.org/t4/nmys", 
        "searchable": 1,
