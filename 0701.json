@@ -129,6 +129,15 @@
       "filterable": 1
     },
     {
+       "key": "293",
+       "name": "293",
+       "type": 3,
+       "api": "csp_SP293",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
       "key": "csp_Mjxq",
       "name": "美剧星球",
       "type": 3,
