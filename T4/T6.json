@@ -1,34 +1,76 @@
 {
-  //"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
- //"spider": "https://kvymin.github.io/CatVod/jar/custom_spider.jar;md5;df4fbf466881dbfa7fed3ab27aa1ff51",
   "sites": [
-    //{"key": "注视","name": "注视","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
-    { 
-       "key": "t4public",
-       "name":"T4公共",
+    {
+       "key": "注视",
+       "name": "注视",
        "type": 4,
-       "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
+       "api": "https://t4.catvod.eu.org/catvod/gaze",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    { 
+       "key": "mini",
+       "name":"mini",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/mini", 
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0
     },
     {
-      "key": "T4爬虫",
-      "name": "T4爬虫",
+      "key": "293",
+      "name": "293",
       "type": 4,
-      "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
+      "api": "https://vod.kooo.eu.org/t4/293",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "T4备用",
-      "name": "备用",
+      "key": "完美看看",
+      "name": "完美看看",
       "type": 4,
-      "api": "https://t4.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10",
+      "api": "https://vod.kooo.eu.org/t4/wmkk",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    { 
+       "key": "奈飞",
+       "name":"奈飞",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/fnsp", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
+    { 
+       "key": "mk",
+       "name":"mk",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/mk", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
+    { 
+       "key": "hx",
+       "name":"kx",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/hx", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
+    { 
+       "key": "nmys",
+       "name":"nmys",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/nmys", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
     },
    {
       "key": "libvio",
