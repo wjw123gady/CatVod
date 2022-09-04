@@ -37,6 +37,79 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    
+    { 
+       "key": "mini",
+       "name":"mini",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/mini", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
+    {
+      "key": "293",
+      "name": "293",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/293",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "完美看看",
+      "name": "完美看看",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/wmkk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    { 
+       "key": "奈飞",
+       "name":"奈飞",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/fnsp", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
+    { 
+       "key": "mk",
+       "name":"mk",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/mk", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
+    { 
+       "key": "hx",
+       "name":"kx",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/hx", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
+    { 
+       "key": "nmys",
+       "name":"nmys",
+       "type": 4,
+       "api":"https://vod.kooo.eu.org/t4/nmys", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
+    {
+      "key": "libvio",
+      "name": "libvio",
+      "type": 4,
+      "api": "https://vod.kooo.eu.org/t4/libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_CZSPP",
       "name": "厂长资源",
@@ -84,15 +157,6 @@
       "filterable": 1
     },
     {
-      "key": "在线之家",
-      "name": "在线之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "神马影院",
       "name": "🐎神马影院",
       "type": 3,
@@ -106,15 +170,6 @@
       "name": "追剧喵",
       "type": 3,
       "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "293视频",
-      "name": "293视频",
-      "type": 3,
-      "api": "csp_SP293",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -174,15 +229,6 @@
       "filterable": 1
     },
     {
-      "key": "小熊",
-      "name": "🐨小熊TV",
-      "type": 3,
-      "api": "csp_Xxys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "KanSJ_spider",
       "name": "看视界",
       "type": 3,
@@ -200,6 +246,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    { 
+       "key": "t4public",
+       "name":"T4公共",
+       "type": 4,
+       "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
     {
       "key": "csp_Yj1211",
       "name": "直播合集",
@@ -214,24 +269,6 @@
       "name": "🐠樱花动漫",
       "type": 3,
       "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Tkys",
-      "name": "天空影视",
-      "type": 3,
-      "api": "csp_Tkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Wmkk",
-      "name": "完美看看",
-      "type": 3,
-      "api": "csp_Wmkk",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -265,15 +302,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/宝仙HD.json"
-    },
-    { 
-       "key": "t4public",
-       "name":"T4公共",
-       "type": 4,
-       "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0
     },
     {
       "key": "csp_AppYsV2",
