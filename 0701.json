@@ -286,6 +286,15 @@
       "ext": "http://121.205.88.178:8090/xgapp.php/v2/"
     },
     {
+      "key":"影图",
+      "name":"影图(聚)",
+      "type":1,
+      "api":"https://cj.vodimg.top/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 0
+    },
+    {
       "key": "多多",
       "name": "多多资源（采）",
       "type": 1,
