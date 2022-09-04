@@ -221,14 +221,14 @@
       "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/jubaibai.json"
     },
     {
-      "key": "csp_biubiu_宝仙HD",
-      "name": "宝仙HD〔XB〕",
+      "key": "csp_biubiu_蓝光",
+      "name": "蓝光〔XB〕",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://kvymin.github.io/CatVod/XBiubiu/宝仙HD.json"
+      "ext": "https://kvymin.github.io/CatVod/XBiubiu/lgyy.json"
     },
     {
       "key": "csp_AppYsV2",
