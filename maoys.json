@@ -1,14 +1,5 @@
 {
-  "sites": [    
-    { 
-       "key": "t4public",
-       "name":"T4公共",
-       "type": 4,
-       "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0
-    },
+  "sites": [
     {
       "key": "低端",
       "name": "低端",
@@ -89,52 +80,61 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
-},
-{
+    },
+    {
     "key":"喵喵",
-    "name":"喵喵（dr）",
+    "name":"喵喵",
     "type":1,
     "api":"http://cms.nokia.press/vod?rule=喵喵",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
-},
-{
+   },
+   {
     "key":"万能影视",
-    "name":"万能（dr）",
+    "name":"万能",
     "type":1,
     "api":"http://cms.nokia.press/vod?rule=万能影视",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
-},
-{
+   },
+   {
     "key":"莫扎兔",
-    "name":"莫扎兔（dr）",
+    "name":"莫扎兔",
     "type":1,
     "api":"http://cms.nokia.press/vod?rule=莫扎兔",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
-},
-{
+   },
+   {
     "key":"dr_鸭奈飞",
-    "name":"鸭奈飞（dr）",
+    "name":"鸭奈飞",
     "type":1,
     "api":"http://cms.nokia.press/vod?rule=鸭奈飞",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
-},
-{
+   },
+   {
     "key":"蓝光影院",
-    "name":"蓝光（dr）",
+    "name":"蓝光",
     "type":1,
     "api":"http://cms.nokia.press/vod?rule=蓝光影院",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
-},
+   },    
+    { 
+       "key": "t4public",
+       "name":"公共",
+       "type": 4,
+       "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
     {
       "key": "T4备用",
       "name": "备用",
