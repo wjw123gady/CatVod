@@ -82,6 +82,60 @@
       "filterable": 1
     },
     {
+    "key":"在线之家",
+    "name":"在线之家",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=在线之家",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"喵喵",
+    "name":"喵喵（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=喵喵",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"万能影视",
+    "name":"万能（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=万能影视",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"莫扎兔",
+    "name":"莫扎兔（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=莫扎兔",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"dr_鸭奈飞",
+    "name":"鸭奈飞（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=鸭奈飞",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+{
+    "key":"蓝光影院",
+    "name":"蓝光（dr）",
+    "type":1,
+    "api":"http://cms.nokia.press/vod?rule=蓝光影院",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+},
+    {
       "key": "T4备用",
       "name": "备用",
       "type": 4,
@@ -140,6 +194,11 @@
         ]
       }
     },
+  	{
+		 "name": "GGTV自用",
+	 	 "type": 1,
+	 	 "url": "https://play.fuqizhishi.com/jx/API.php?appkey=zhitigonggeixiaobai4567891&url="
+	 },
     {
       "name": "parwix",
       "type": 0,
