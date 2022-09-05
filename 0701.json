@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "Lezhu_spider",
-      "name": "🕊乐猪影视",
+      "name": "🕊乐猪",
       "type": 3,
       "api": "csp_Lezhu",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "csp_dd5555",
-      "name": "555影视",
+      "name": "555",
       "type": 3,
       "api": "csp_Dy555",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "360_spider",
-      "name": "️360影视",
+      "name": "️360",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -39,7 +39,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长资源",
+      "name": "厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -48,7 +48,7 @@
     },
     {
       "key": "Ikan",
-      "name": "爱看影视",
+      "name": "爱看",
       "type": 3,
       "api": "csp_IKan",
       "searchable": 1,
@@ -66,7 +66,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "快看影视",
+      "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -146,8 +146,8 @@
        "filterable": 1
     },
     {
-      "key": "神马影院",
-      "name": "🐎神马影院",
+      "key": "神马",
+      "name": "🐎神马",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
@@ -313,7 +313,7 @@
     },
     {
       "key": "多多",
-      "name": "多多资源（采）",
+      "name": "多多（采）",
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 1,
