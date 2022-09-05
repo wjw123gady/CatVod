@@ -74,6 +74,78 @@
       "filterable": 1
     },
     {
+       "key": "VIP1",
+       "name": "低端",
+       "type": 4,
+       "api": "http://vod.kooo.eu.org/t4/vip110002",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
+       "key": "VIP2",
+       "name": "柠檬",
+       "type": 4,
+       "api": "https://vod.kooo.eu.org/t4/vip11a0c4",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
+       "key": "VIP3",
+       "name": "80S",
+       "type": 4,
+       "api": "https://vod.kooo.eu.org/t4/vip11cx08",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
+       "key": "VIP4",
+       "name": "简影",
+       "type": 4,
+       "api": "https://vod.kooo.eu.org/t4/vip11b016",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
+       "key": "VIP5",
+       "name": "libvo",
+       "type": 4,
+       "api": "https://vod.kooo.eu.org/t4/vip11a032",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
+       "key": "VIP6",
+       "name": "农民",
+       "type": 4,
+       "api": "https://vod.kooo.eu.org/t4/vip11fx64",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
+       "key": "VIP7",
+       "name": "泥巴",
+       "type": 4,
+       "api": "https://vod.kooo.eu.org/t4/vip11o128",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
+       "key": "VIP8",
+       "name": "注视",
+       "type": 4,
+       "api": "https://vod.kooo.eu.org/t4/vip11p256",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
       "key": "神马影院",
       "name": "🐎神马影院",
       "type": 3,
