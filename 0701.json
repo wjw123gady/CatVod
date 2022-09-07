@@ -407,16 +407,10 @@
       "type": 2,
       "url": "Sequence"
     },
-    {
-      "name":"爱酷",
-      "type": 1,
-      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
-    },
-    {
-      "name": "parwix",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
-    }
+    {"name": "爱酷","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
+    {"name": "优果","type": 0,"url": "https://za.kuanjv.com/?url="},  
+    {"name": "左岸","type": 0,"url": "https://jx.parwix.com:4433/player/analysis.php?v="},
+    {"name": "扶风","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}
   ],
   "flags": [
     "youku",
