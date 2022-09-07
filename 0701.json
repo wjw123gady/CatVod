@@ -321,9 +321,9 @@
       "url": "Sequence"
     },
     {"name": "爱酷","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
-    {"name": "优果","type": 1,"url": "https://za.kuanjv.com/?url="},  
-    {"name": "左岸","type": 0,"url": "https://jx.parwix.com:4433/player/analysis.php?v="},
-    {"name": "扶风","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}
+    {"name": "萌瓜","type": 0,"url": "https://freejx.rx88.top:1234/?url="},	
+    {"name": "嗅探","type": 0,"url": "https://api.jiexi.la/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+    {"name": "古思","type": 0,"url": "https://h5.freejson.xyz/player/?url="}
   ],
   "flags": [
     "youku",
