@@ -321,7 +321,8 @@
       "url": "Sequence"
     },
     {"name":"嗅探","type":0,"url":"https://api.jiexi.la/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-  ],
+    {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="}
+ ],
   "flags": [
     "youku",
     "qq",
