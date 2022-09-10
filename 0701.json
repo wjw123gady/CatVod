@@ -320,9 +320,9 @@
       "type": 2,
       "url": "Sequence"
     },
-    {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-    {"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
-    {"name": "懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="}
+    {"name":"搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+    {"name":"自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
+    {"name":"懒人","type":1,"url": "http://120.53.102.254/jx1/jx75.php?url="}
    ],
   "flags": [
     "youku",
