@@ -83,15 +83,6 @@
       "filterable": 0
     },
     {
-      "key": "dr_万能影视",
-      "name": "万能",
-      "type": 1,
-      "api": "https://drpy.aqingyuan.repl.co/vod?rule=万能影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "神马",
       "name": "🐎神马",
       "type": 3,
@@ -189,15 +180,6 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0
-    },
-    {
-      "key": "dr_瓜皮TV",
-      "name": "瓜皮TV",
-      "type": 1,
-      "api": "https://drpy.aqingyuan.repl.co/vod?rule=瓜皮TV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "csp_Yj1211",
