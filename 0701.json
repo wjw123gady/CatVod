@@ -56,6 +56,15 @@
       "filterable": 1
     },
     {
+      "key": "dr_瓜皮TV",
+      "name": "瓜皮TV",
+      "type": 1,
+      "api": "https://drpy.aqingyuan.repl.co/vod?rule=瓜皮TV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "小苹果",
       "name": "🍎小苹果",
       "type": 3,
