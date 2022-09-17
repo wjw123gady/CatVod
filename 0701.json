@@ -30,7 +30,7 @@
     },
     {
       "key": "dr_大米星球",
-      "name": "大米星球(道长)",
+      "name": "大米星球",
       "type": 1,
       "api": "https://drpy.justmiss.repl.co/vod?rule=大米星球",
       "searchable": 2,
